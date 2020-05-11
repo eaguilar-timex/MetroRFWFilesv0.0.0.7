@@ -1,0 +1,34 @@
+{
+    "buildTime": 202001080951,
+    "deviceSource": "hawkw",
+    "language": "en,es,ru,fr,de,it,tr,pt-br,th,el,cs,pt,ro,ms,id,in,vi",
+    "languageFamily": 2,
+    "packageName": "hawkw(202001080951)",
+    "packageVersion": "0.0.0.07",
+    "packages": {
+        "baseRes": {
+            "flag": 7,
+            "name": "base.res.pack.bin",
+            "version": "v18"
+        },
+        "ft": {
+            "flag": 2,
+            "name": "font.bin",
+            "version": "10"
+        },
+        "fw": {
+            "flag": 2,
+            "name": "hawkw.fw",
+            "version": "0.0.0.07"
+        },
+        "gps": {
+            "name": "gps.bin",
+            "version": "19226,f3a8ad3,135"
+        },
+        "res": {
+            "flag": 2,
+            "name": "res.pack.bin",
+            "version": "v34"
+        }
+    }
+}
